@@ -1,2 +1,2 @@
 # appstore_tech
-[animalvoice.html](./animalvoice.html)
+[animalvoice.html](./animalvoice/index.html)
